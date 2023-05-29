@@ -1,0 +1,43 @@
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.exe.config
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.SuggestedBindingRedirects.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Loading_Screen.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Login.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Properties.Resources.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.GenerateResource.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.pdb
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.AssemblyReference.cache
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.exe
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.pdb
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.exe.config
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.exe
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.pdb
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Loading_Screen.resources
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Login.resources
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Menu.resources
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Properties.Resources.resources
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.GenerateResource.cache
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.exe.config
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\bin\Debug\ALP AD 2.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.AssemblyReference.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.SuggestedBindingRedirects.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Loading_Screen.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Login.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Menu.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Properties.Resources.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.GenerateResource.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.csproj.CoreCompileInputs.cache
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.exe
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP AD 2.pdb
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Menu_Admin.resources
+C:\Kuliah\Semester 2\App Dev Visual Studio\AD temen\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Sign_Up.resources
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Add_Medicine.resources
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Menu_Admin.resources
+C:\Users\edwar\Downloads\ALP AD 2\ALP AD 2\obj\Debug\ALP_AD_2.Sign_Up.resources
